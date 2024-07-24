@@ -26,8 +26,8 @@
                 └── data                   		数据库数据录
             └── app                        	应用目录
                 ├── data                   		应用数据目录
-				├── extensions                  应用扩展目录
-				└── logs                   		应用日志目录
+		├── extensions                  	应用扩展目录
+		└── logs                   		应用日志目录
         ├── docker-compose.yml          docker-compose.yml
         └── README.md                   README.md
 
